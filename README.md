@@ -30,6 +30,6 @@
 <br/>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hkayrad&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/hkayrad
+[twitter]: https://www.twitter.com/hkayrad
 [instagram]: https://www.instagram.com/hkayrad
-[linkedin]: www.linkedin.com/in/hkayrad
+[linkedin]: https://www.linkedin.com/in/hkayrad
