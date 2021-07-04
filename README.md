@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning everything I can
-- 🥅 2020 Goals: Give attention to personal projects
+- 🥅 2021 Goals: Give attention to personal projects
 - ⚡ Fun fact: I'm a knife enthusiast
 
 ### Connect with me:
