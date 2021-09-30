@@ -1,8 +1,7 @@
 ### Hi, I'm Hakan Kayra Dogan aka FalconHK 👋
 
-## I'm always a Student and a Developer!
+## I'm a Student and a Developer!
 
-- 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning everything I can
 - 🥅 2021 Goals: Give attention to personal projects
 - ⚡ Fun fact: I'm a knife enthusiast
