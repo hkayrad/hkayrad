@@ -3,7 +3,7 @@
 ## I'm a Student and a Developer!
 
 - 🌱 I’m currently learning everything I can
-- 🥅 2021 Goals: Give attention to personal projects
+- 🥅 2022 Goals: Give attention to personal projects
 - ⚡ Fun fact: I'm a knife enthusiast
 
 ### Connect with me:
