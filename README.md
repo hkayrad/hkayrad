@@ -29,7 +29,7 @@
 <br/>
 <img align="center" alt="hkayrad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hkayrad&show_icons=true&hide_border=true&count_private=true&theme=dracula&include_all_commits=true" />
 
-<img align="center" alt="hkayrad's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkayrad&layout=compacte" />
+<img align="center" alt="hkayrad's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkayrad&layout=compacte&include_all_commits=true&count_private=true" />
 
 [twitter]: https://www.twitter.com/hkayrad
 [instagram]: https://www.instagram.com/hkayrad
