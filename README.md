@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hakan Kayra Doğan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="color:white;" alt="Hakan Kayra Doğan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hakan Kayra Doğan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hakan Kayra Doğan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -29,7 +29,6 @@
 <br/>
 <img align="center" alt="hkayrad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hkayrad&show_icons=true&hide_border=true&count_private=true&theme=dracula&include_all_commits=true" />
 
-<img align="center" alt="hkayrad's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkayrad&layout=compacte&include_all_commits=true&count_private=true" />
 
 [twitter]: https://www.twitter.com/hkayrad
 [instagram]: https://www.instagram.com/hkayrad
