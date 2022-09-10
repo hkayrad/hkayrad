@@ -27,7 +27,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 <br/>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hkayrad&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+<img align="center" alt="hkayrad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hkayrad&show_icons=true&hide_border=true&count_private=true&theme=dracula&include_all_commits=true" />
+
+<img align="center" alt="hkayrad's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compacte" />
 
 [twitter]: https://www.twitter.com/hkayrad
 [instagram]: https://www.instagram.com/hkayrad
