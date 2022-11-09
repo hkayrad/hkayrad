@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Redisigning Bohredom website](https://bohredom.hkayrad.me) and [Trying to learn React by making Real-Estate Website](https://github.com/hkayrad/hkayrad-estate)
 
-- 📫 How to reach me **hkayrad@gmail.com**
+- 📫 You can reach me using **hkayrad@gmail.com**
 
 - 📄 Know about my experiences [https://hkayrad.me](https://hkayrad.me)
 
