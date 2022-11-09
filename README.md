@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan Kayra Doğan</h1>
-<h3 align="center">Information Systems Engineering student @ Atılım University</h3>
+<h3 align="center">Information Systems Engineering student @ <a href="https://www.atilim.edu.tr/en">Atılım University<a></h3>
 
 - 🔭 I’m currently working on [Redisigning Bohredom website](https://bohredom.hkayrad.me) and [Trying to learn React by making Real-Estate Website](https://github.com/hkayrad/hkayrad-estate)
 
