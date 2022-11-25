@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hkayrad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hkayrad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11494827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11494827" height="30" width="40" /></a>
-<a href="https://instagram.com/hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hkayrad" height="30" width="40" /></a>
-<a href="https://medium.com/@hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hkayrad" height="30" width="40" /></a>
-<a href="https://discord.gg/a8UugQnyVe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a8UugQnyVe" height="30" width="40" /></a>
+<a href="https://twitter.com/hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hkayrad" height="30" width="40" />Twitter</a>
+<a href="https://linkedin.com/in/hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hkayrad" height="30" width="40" />LinkedIn</a>
+<a href="https://stackoverflow.com/users/11494827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11494827" height="30" width="40" />Stack Overflow</a>
+<a href="https://instagram.com/hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hkayrad" height="30" width="40" />Instagram</a>
+<a href="https://medium.com/@hkayrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hkayrad" height="30" width="40" />Medium</a>
+<a href="https://discord.gg/a8UugQnyVe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a8UugQnyVe" height="30" width="40" />Discord</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
