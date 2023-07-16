@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Redesigning my personal website](https://prototype.hkayrad.me).
 
-- 📫 You can reach me using **hkayrad@gmail.com**
+- 📫 You can reach me using **me@hkayrad.me**
 
 - 📄 Know about my experiences [https://hkayrad.me](https://hkayrad.me)
 
