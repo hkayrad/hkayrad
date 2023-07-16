@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan Kayra Doğan</h1>
 <h3 align="center">Information Systems Engineering student @ <a href="https://www.atilim.edu.tr/en">Atılım University<a></h3>
 
-- 🔭 I’m currently working on [Redesigning my personal website](https://prototype.hkayrad.me).
+- 🔭 I’m currently [developing NG Plane autonomous flight units](https://github.com/NG-AF).
 
 - 📫 You can reach me using **me@hkayrad.me**
 
