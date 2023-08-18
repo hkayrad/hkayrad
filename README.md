@@ -82,7 +82,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
   <a href="https://hkayrad.me" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=About.me&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=About.me&logoColor=white" height="30" alt="about me website logo" >
   </a>
 </div>
 
