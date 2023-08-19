@@ -88,6 +88,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hkayrad/hkayrad/output/snake.svg" alt="Snake animation" />
-
-###
