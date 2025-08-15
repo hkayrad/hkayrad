@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Hakan Kayra and I'm an ISE/CMPE student @ Atılım University</h2>
+<h2 align="left">I'm Hakan Kayra, an ISE/CMPE student @ Atılım University</h2>
 
 ###
 
