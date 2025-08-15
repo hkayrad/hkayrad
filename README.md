@@ -23,3 +23,6 @@
 
 ###
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hkayrad&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hkayrad&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hkayrad&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
